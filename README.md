@@ -1,4 +1,4 @@
-#Image Slider Project
+##Image Slider Project
 
 A simple image slider project for intermediate programmers.
 
